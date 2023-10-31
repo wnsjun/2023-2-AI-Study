@@ -11,6 +11,7 @@
  - semantic segmentation
    : 이미지의 모든 물체에 대해 클래스 라벨 예측
 
+
 2. Fully Convolutional Network (FCN)
 
  (1) VGG16을 backbone으로 사용
