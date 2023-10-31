@@ -1,4 +1,5 @@
 1. Semantic Segmentation
+ 
  (1) segmentation : 입력 이미지를 픽셀 수준에서 분석하여 각 픽셀에 클래스 레이블을 할당
 
  (2) 예시 : 스마트폰의 인물 사진 모드 (구글 pixel 2), 자율주행, 의료 영상
@@ -11,6 +12,7 @@
    : 이미지의 모든 물체에 대해 클래스 라벨 예측
 
 2. Fully Convolutional Network (FCN)
+
  (1) VGG16을 backbone으로 사용
  - VGG16 : 3x3의 Convolution 네트워크만을 이용해서 특징을 추출하고, 이후 3개의 FC Layer를 이용해 
 Classification을 수행하는 구조
